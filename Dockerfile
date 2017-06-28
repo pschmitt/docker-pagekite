@@ -1,4 +1,4 @@
-FROM alpine:3.3
+FROM alpine:latest
 
 MAINTAINER Philipp Schmitt <philipp@schmitt.co>
 
